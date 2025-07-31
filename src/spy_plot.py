@@ -1,3 +1,6 @@
+# Updated for clarity
+git add spy_plot.py
+git commit -m "Add clarification comment to spy_plot.py"
 
 import yfinance as yf
 import matplotlib.pyplot as plt
